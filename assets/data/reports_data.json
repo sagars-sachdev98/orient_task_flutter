@@ -1,0 +1,140 @@
+[
+    {
+        "reports": [
+            {
+                "title": "Number of Sales People Added",
+                "data": [
+                    {
+                        "heading": "Month to Date",
+                        "value": 20
+                    },
+                    {
+                        "heading": "Last Month",
+                        "value": 45
+                    },
+                    {
+                        "heading": "All Time",
+                        "value": 100
+                    }
+                ]
+            },
+            {
+                "title": "Total Cumulative Sales People",
+                "data": [
+                    {
+                        "heading": "As On Today",
+                        "value": 20
+                    },
+                    {
+                        "heading": "At Same Day Month",
+                        "value": 45
+                    }
+                ]
+            },
+            {
+                "title": "Number of Block Leads",
+                "data": [
+                    {
+                        "heading": "As On Today",
+                        "value": 20
+                    },
+                    {
+                        "heading": "At Same Day Month",
+                        "value": 45
+                    }
+                ]
+            },
+            {
+                "title": "Number of District Leads",
+                "data": [
+                    {
+                        "heading": "As On Today",
+                        "value": 20
+                    },
+                    {
+                        "heading": "At Same Day Month",
+                        "value": 45
+                    }
+                ]
+            },
+            {
+                "title": "Number of Cluster Heads",
+                "data": [
+                    {
+                        "heading": "As On Today",
+                        "value": 20
+                    },
+                    {
+                        "heading": "At Same Day Month",
+                        "value": 45
+                    }
+                ]
+            },
+            {
+                "title": "Number of State Heads",
+                "data": [
+                    {
+                        "heading": "As On Today",
+                        "value": 20
+                    },
+                    {
+                        "heading": "At Same Day Month",
+                        "value": 45
+                    }
+                ]
+            },
+            {
+                "title": "User Edits Done",
+                "data": [
+                    {
+                        "heading": "Month to Date",
+                        "value": 20
+                    },
+                    {
+                        "heading": "Last Month",
+                        "value": 45
+                    },
+                    {
+                        "heading": "All Time",
+                        "value": 100
+                    }
+                ]
+            },
+            {
+                "title": "Activities Added",
+                "data": [
+                    {
+                        "heading": "Month to Date",
+                        "value": 20
+                    },
+                    {
+                        "heading": "Last Month",
+                        "value": 45
+                    },
+                    {
+                        "heading": "All Time",
+                        "value": 100
+                    }
+                ]
+            }
+        ],
+        "highlights": [
+            {
+                "title": "Users without a target",
+                "data": 20
+            },
+            {
+                "title": "Number of Users ending approval",
+                "data": 20
+            },
+            {
+                "title": "Number of targets pending approval",
+                "data": 20
+            },
+            {
+                "title": "Number of activities pending approval",
+                "data": 20
+            }
+        ]
+    }
+]
